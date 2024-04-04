@@ -1,2 +1,32 @@
 # lop
-list of phones
+## Generates a list of 6digit random numbers with prefix
+
+1. geo@pc:~/Documents/lop$ ls
+2. lop.rb
+3. geo@pc:~/Documents/lop$ ruby lop.rb 
+4. give prefix
+5. 6977
+6. how many do you want
+7. 20
+8. 6977405135
+9. 6977334444
+10. 6977514152
+12. 6977320443
+13. 6977522143
+14. 6977441113
+15. 6977424454
+16. 6977405135
+17. 6977053233
+18. 6977204355
+19. 6977053011
+20. 6977522023
+21. 6977125353
+22. 6977234323
+23. 6977025144
+24. 6977215332
+25. 6977311421
+26. 6977320402
+27. 6977111042
+28. 6977452441
+29. press enter to exit
+30. 
